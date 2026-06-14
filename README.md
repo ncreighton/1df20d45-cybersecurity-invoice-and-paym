@@ -1,2 +1,59 @@
-# 1df20d45-cybersecurity-invoice-and-paym
-Stop sending invoices through unsecured email attachments that expose your clients' data and your reputation. The Cybersecurity Invoice and Payment WordPress Plugin turns your WordPress site into a PCI-compliant billing hub built for security professionals.  This plugin eliminates the risk of invoice fraud and data leaks by generating encrypted, ta
+=== Cybersecurity Invoice and Payment WordPress Plugin ===
+Contributors: digitalforge
+Requires at least: 5.8
+Tested up to: 6.5
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+Generate invoices, accept payments, track revenue, and automate receipts for Cybersecurity. All-in-one financial management for Cybersecurity sites.
+
+== Description ==
+
+Generate invoices, accept payments, track revenue, and automate receipts for Cybersecurity. All-in-one financial management for Cybersecurity sites.
+
+**Features:**
+
+* Core functionality
+
+== Installation ==
+
+1. Upload the plugin folder to `/wp-content/plugins/`
+2. Activate via WordPress admin > Plugins
+3. Configure via Settings > Cybersecurity Invoice and Payment WordPress Plugin
+
+== Changelog ==
+
+= 1.0.0 =
+* Initial release
+
+== Upgrade Notice ==
+
+= 1.0.0 =
+Initial release.
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu00j4ePaQA09a8nGcZd2h)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu00j4ePaQA09a8nGcZd2h)
+
